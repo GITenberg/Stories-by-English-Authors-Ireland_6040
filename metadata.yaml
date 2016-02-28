@@ -1,0 +1,58 @@
+_repo: Stories-by-English-Authors-Ireland_6040
+contributor:
+  contributors:
+  - agent_name: Barlow, Jane
+    aliases:
+    - Ryark, Felix
+    - Barlow, J. (Jane)
+    deathdate: 1917
+    gutenberg_agent_id: '6301'
+    url: http://www.gutenberg.org/2009/agents/6301
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Barlow
+  - agent_name: Jessop, George Henry
+    aliases:
+    - Jessop, G. H. (George Henry)
+    - Jessop, George H. (George Henry)
+    deathdate: 1915
+    gutenberg_agent_id: '6302'
+    url: http://www.gutenberg.org/2009/agents/6302
+  - agent_name: Carleton, William
+    birthdate: 1794
+    deathdate: 1869
+    gutenberg_agent_id: '6300'
+    url: http://www.gutenberg.org/2009/agents/6300
+    wikipedia: http://en.wikipedia.org/wiki/William_Carleton
+  - agent_name: Banim, John
+    alias: O'Hara, Barnes
+    birthdate: 1798
+    deathdate: 1842
+    gutenberg_agent_id: '6303'
+    url: http://www.gutenberg.org/2009/agents/6303
+    wikipedia: http://en.wikipedia.org/wiki/John_Banim
+  - agent_name: Lover, Samuel
+    alias: Lover, S. (Samuel)
+    birthdate: 1797
+    deathdate: 1868
+    gutenberg_agent_id: '2365'
+    url: http://www.gutenberg.org/2009/agents/2365
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Lover
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Ireland -- Fiction'
+tableOfContents: The gridiron / Samuel Lover -- The emergency men / George H. Jessop
+  -- A lost recruit / Jane Barlow -- The rival dreamers / John Banim -- Neal Malone
+  / William Carleton -- The banshee / Anonymous.
+title: 'Stories by English Authors: Ireland'
+url: http://www.gutenberg.org/ebooks/6040
