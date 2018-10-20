@@ -1,5 +1,5 @@
 _repo: Stories-by-English-Authors-Ireland_6040
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   contributors:
   - agent_name: Barlow, Jane
@@ -57,6 +57,7 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'English fiction -- 19th century'
 - !lcsh 'Ireland -- Fiction'
+- GITenberg
 tableOfContents: The gridiron / Samuel Lover -- The emergency men / George H. Jessop
   -- A lost recruit / Jane Barlow -- The rival dreamers / John Banim -- Neal Malone
   / William Carleton -- The banshee / Anonymous.
